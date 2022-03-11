@@ -1,0 +1,24 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: antiquewhite;
+}
+.header_div {
+    background: white;
+    color: #ce2700;
+}
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: 'Roboto', sans-serif;
+}
+button{
+    background-color: pink;
+}
+#BUTTON:hover{
+    background-color: rgb(255, 255, 255);
+}
