@@ -21,7 +21,7 @@ function gotResults(error, results)
     }
     else if (results[0].label == "Meawing")
     {
-        img1.src="meow.gif";
+        img1.src="https://github.com/adhritdc/Project-108/blob/main/meow.gif";
     }
     else
     {
