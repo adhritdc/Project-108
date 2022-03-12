@@ -17,7 +17,7 @@ function gotResults(error, results)
     img1 = document.getElementById("imagePosition");
     if (results[0].label == "Barking")
     {
-        img1.src="bark.gif";
+        img1.src="https://github.com/adhritdc/Project-108/blob/main/bark.gif";
     }
     else if (results[0].label == "Meawing")
     {
