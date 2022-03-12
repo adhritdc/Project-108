@@ -17,15 +17,15 @@ function gotResults(error, results)
     img1 = document.getElementById("imagePosition");
     if (results[0].label == "Barking")
     {
-        img1.src="https://github.com/adhritdc/Project-108/blob/main/bark.gif";
+        img1.src="bark.gif";
     }
     else if (results[0].label == "Meawing")
     {
-        img1.src="https://github.com/adhritdc/Project-108/blob/main/meow.gif";
+        img1.src="meow.gif";
     }
     else
     {
-        img1.src="https://github.com/adhritdc/Project-108/blob/main/listen.gif";
+        img1.src="listen.gif";
     }
     }
 }
