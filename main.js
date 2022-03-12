@@ -25,7 +25,7 @@ function gotResults(error, results)
     }
     else
     {
-        img1.src="listen.gif";
+        img1.src="https://github.com/adhritdc/Project-108/blob/main/listen.gif";
     }
     }
 }
